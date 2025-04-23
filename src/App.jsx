@@ -1,11 +1,11 @@
 function App() {
   return (
-    <div style={{ padding: '20px', fontFamily: 'sans-serif' }}>
-     <img src="/react.png" alt="React Logo" width="120" />
+    <div>
+      <img src="/react.png" alt="React Logo" />
       <h1>React</h1>
       <p>A biblioteca para interfaces de usuário web e nativas.</p>
       <button>Aprenda React</button>
-      <button style={{ marginLeft: '10px' }}>Referência da API</button>
+      <button>Referência da API</button>
       <hr />
       <h2>Crie interfaces de usuário de componentes</h2>
       <p>
